@@ -1,0 +1,30 @@
+.buttons {
+
+    text-align: center;
+    margin-top: 10em;
+}
+
+.btn-red
+{
+    background-color: red;
+    color: aliceblue;
+    width: 6em;
+    height:4em ;
+}
+
+.btn-green
+{
+    background-color: green;
+    color: aliceblue;
+    width: 6em;
+    height:4em ;
+}
+
+
+.btn-blue
+{
+    background-color: blue;
+    color: aliceblue;
+    width: 6em;
+    height:4em ;
+}
