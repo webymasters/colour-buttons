@@ -2,7 +2,7 @@
 
 ## Outcome
 
-A user interface with three buttons, each labelled "Red", "Green", "Blue". When any of the three buttons is pressed, the background colour of the interface will transition (animate) to match a custom shade corresponding with the button text.
+A user interface with three buttons, each labelled "Red", "Green", "Blue". When any of the three buttons is pressed, the background colour of the interface will transition (animate) to match a custom shade corresponding with the button text. Also add an element that will update with the colour value (as it would be applied through CSS).
 
 ## Start By...
 
